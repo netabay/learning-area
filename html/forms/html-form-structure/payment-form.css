@@ -39,7 +39,7 @@ input[type=checkbox], input[type=radio] {
 }
 
 input:focus, textarea:focus {
-    border-color: #000;
+    border-color: rgb(57, 29, 102);
 }
 
 textarea {
